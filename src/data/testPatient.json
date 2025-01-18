@@ -68,14 +68,6 @@
             "notes": "Increase dosage"
         }
     ],
-    "labs": [
-        {
-            "date": "2024-01-15",
-            "hematology": {
-                "CBC":
-            }
-        }
-    ],
     "medicalHistory": [
         {
             "date": "2023-06-15",
@@ -86,11 +78,7 @@
             "date": "2024-01-10",
             "condition": "Mild Asthma",
             "notes": "Prescribed inhaler for occasional use."
-        },
-        "allergies": [
-            "Peanuts",
-            "Penicillin"
-        ]
+        }
     ],
     "image": "patient_photos/john_doe.jpg",
     "xRays": [
