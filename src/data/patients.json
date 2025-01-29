@@ -1,0 +1,14 @@
+[
+    {"patientId": "202501000",
+        "name": {
+            "firstName": "Juan",
+            "lastName": "Dela Cruz"
+        }
+    },
+    {"patientId": "202501001",
+        "name": {
+            "firstName": "Maria",
+            "lastName": "Dela Cruz"
+        }
+    }
+]

@@ -1,0 +1,91 @@
+{
+    "patientId": "202501000",
+    "infoSheet": {
+        "name": {
+            "firstName": "Juan",
+            "lastName": "Dela Cruz"
+        },
+        "dateOfBirth": {
+            "day": 26,
+            "month": 5,
+            "year": 1992
+        },
+        "age": 30,
+        "sex": "Male",
+        "email": "cmambatali@gmail.com",
+        "cellNumber": "+63-917-000-1234",
+        "altNumber": "+63-78-624-0788",
+        "homeAddress": {
+            "baranggay": "Alibagu",
+            "city": "City of Ilagan",
+            "province": "Isabela"
+        },
+        "workAddress": {
+            "building": "IDGH",
+            "baranggay": "Guinatan",
+            "city": "City of Ilagan",
+            "province": "Isabela"
+        },
+        "philhealth": "TRUE",
+        "emergencyContact": {
+            "name": "Maria Dela Cruz",
+            "relationship": "Spouse",
+            "cellNumber": "+63-926-123-0000",
+            "altNumber": "+63-78-324-1792"
+        }
+    },
+    "soap": [
+        {
+            "date": "2024-01-15",
+            "chiefComplaint": "Upper body pains",
+            "S": {
+                "HPI": "",
+                "PHx": "",
+                "FHx": "",
+                "SHx": "",
+                "ROS": ""
+            },
+            "O": "AS PPC no NVE; CBS NRRR; Soft abdomen; No bipedal edema",
+            "renalAssessment": "unremarkable",
+            "others": "",
+            "P": "",
+            "notes": "Increase dosage"
+        },
+        {
+            "date": "2024-05-25",
+            "chiefComplaint": "Upper body pains",
+            "S": {
+                "HPI": "",
+                "PHx": "",
+                "FHx": "",
+                "SHx": "",
+                "ROS": ""
+            },
+            "O": "AS PPC no NVE; CBS NRRR; Soft abdomen; No bipedal edema",
+            "renalAssessment": "unremarkable",
+            "others": "",
+            "P": "",
+            "notes": "Increase dosage"
+        }
+    ],
+    "medicalHistory": [
+        {
+            "date": "2023-06-15",
+            "condition": "Hypertension",
+            "notes": "Patient advised to reduce sodium intake and exercise regularly."
+        },
+        {
+            "date": "2024-01-10",
+            "condition": "Mild Asthma",
+            "notes": "Prescribed inhaler for occasional use."
+        }
+    ],
+    "image": "patient_photos/john_doe.jpg",
+    "xRays": [
+        {
+            "date": "2024-12-01",
+            "description": "Chest X-Ray",
+            "file": "xray_images/chest_xray_2024.jpg"
+        }
+    ]
+}
